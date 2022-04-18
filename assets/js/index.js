@@ -9,7 +9,7 @@ import Aguila from "./aguila.js"
 //Se hace el levantamiento de acuerdo con la estructura de index.html
 //Registro de animales
 let select = document.querySelector(`#animal`)
-let edad = document.querySelector(`#edad`) //Aparece un cadro amarillo entre ` y #. No afecta la ejecución del programa
+let edad = document.querySelector(`#edad`) //Aparece un cuadro amarillo entre ` y #. No afecta la ejecución del programa
 const comentarios = document.getElementById(`comentarios`)
 let imagenAnimal = document.querySelector(`#preview`)
 const registro = document.querySelector(`#btnRegistrar`)
